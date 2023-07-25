@@ -1,0 +1,424 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: DIA_LBL_SELECT_TEST_DATA in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: HAND_WARN_TS_REQUIRES_PLUGIN_DYNAMIC_EXECUTION_TO_OPEN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: DIA_INFO_KSE_COMBINE_MULTI_DATASOURCE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_SHELL_DATA_ITERATION in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_LBL_TO_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_START_ROW_BIGGER_THAN_END_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: EDI_TITLE_TEST_CASE_BROWSER in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_CHOOSE_DATA_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_TABLE_EMPTY_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_WARN_MSG_EMPTY_COLUMN_NAME in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: PA_LBL_TOOLTIP_RETRY_IMMEDIATELY in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 63966
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername hp
+End appending additional signatures 62532fe0-f0e6-4bc7-8c3c-88d703e001eb__hp
+End getting machine ID on Windows 3e88d5dd9cc3224adb59187d5ff6c5de
+End checking and mark activated for GUI mode
+Your current licensed session is valid until: March 10, 2023 15:16
+Start check license task
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+
+Thu Mar 09 15:16:59 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: DIA_LBL_LIST_OF_COL_NAMES in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Warning: NLS unused message: DIA_LBL_SELECT_A_COL in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Thu Mar 09 15:17:05 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 15:17:06 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 15:17:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 15:17:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 15:17:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 15:17:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 15:17:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 15:17:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 15:21:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 15:21:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: DIA_TITLE_INSTALL_INSTRUCTIONS in: com.kms.katalon.composer.mobile.constants.composerMobileMessages
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@d06abb4[Example of how you can use a custom Theme.Dialog theme to make an activity that looks like a customized dialog, here with an ugly frame.]
+
+Thu Mar 09 15:55:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 15:55:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Terminated
+
+Thu Mar 09 15:56:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@425189c2[Application/App/Activity/android.widget.TextView - Custom Dialog]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@53597f82[object: org.codehaus.groovy.ast.expr.ClassExpression@e542103[type: com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@cd79235[Mobile]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@19d1d1e6[Application/App/Activity/android.widget.TextView - Custom Dialog]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2a94cbf1[When he taps on the Custom Dialog button]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@14a737bc[Application/App/android.widget.TextView - Activity]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5019262d[    ]
+
+Thu Mar 09 16:16:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6b9b2a50[When he taps on the Custom Dialog button]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@35718dfc[object: org.codehaus.groovy.ast.expr.ClassExpression@121ddc9f[type: com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@7e84cd36[Mobile]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1da87221[Get full directory's path of android application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@593d526b[And he navigates the application to Activity form]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7d1c8689[Application/App/android.widget.TextView - Activity]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7d1c8689[Application/App/android.widget.TextView - Activity]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7eb33085[Application/App/android.widget.TextView - Activity]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7eb33085[Application/App/android.widget.TextView - Activity]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@122f4fd5[Application/android.widget.TextView - App]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7eb33085[Application/App/android.widget.TextView - Activity]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7eb33085[Application/App/android.widget.TextView - Activity]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7eb33085[Application/App/android.widget.TextView - Activity]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2f55ab41[Application/App/android.widget.TextView - Activity]
+All launchers terminated
+
+Thu Mar 09 16:38:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Thu Mar 09 16:38:57 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@24a0847d[Object Repository/SC001_TC010OR/input_MembershipName]
+
+Thu Mar 09 16:46:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 17:22:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 17:50:30 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 18:55:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 09 18:55:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 10:18:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 11:00:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 11:24:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 11:55:06 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+
+Fri Mar 10 11:56:36 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Fri Mar 10 11:56:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@21d9001[Application/App/android.widget.TextView - Activity]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5fd13a2[Given that user has started an application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2094292e[Get full directory's path of android application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@52997566[And he navigates the application to Activity form]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@26e4022d[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1d1edd11[And he navigates the application to Activity form]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1d1edd11[And he navigates the application to Activity form]
+All launchers terminated
+
+Fri Mar 10 12:10:19 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Fri Mar 10 12:10:30 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 12:10:41 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 12:11:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@63fea15b[TestProductdescription]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1712fe3a[Object Repository/SC001_TC001OR/CreateProductPage/Product_DescriptionField]
+Launcher status after execution process completed: Running
+Warning: NLS unused message: PREF_LBL_ACTIVE_BROWSER_PORT_DO_NOT_SHOW_WARNING_DIALOG in: com.kms.katalon.objectspy.constants.objectspyMessages
+Mar 10, 2023 12:14:47 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Mar 10, 2023 12:14:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Warning: NLS unused message: PREF_WARN_KSE_SQL_SERVER in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Warning: NLS unused message: PREF_WARN_KSE_ORACLE_SQL in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+
+Fri Mar 10 12:16:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 12:46:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@373ddb0[Object Repository/CommonObjects/Link_Products]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1e2f5cfd[   findTestObject('Object Repository/SC001_TC002OR/10AnnouncementPOPUp')  ]
+
+Fri Mar 10 13:07:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 13:07:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 13:07:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@57946125[Object Repository/SC001_TC002OR/10AnnouncementPOPUp]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3422574e[Object Repository/CommonObjects/Link_Products]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2282e08f[https://queuebuster.co/manage/setup/products.php]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@52d54bc2[ Correct page ]
+Exception in thread "Thread-4" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+
+Fri Mar 10 13:10:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@38419350[https://queuebuster.co/]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@38419350[https://queuebuster.co/]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@38419350[https://queuebuster.co/]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@39502ed5[Object Repository/CommonObjects/Username]
+Launcher status after execution process completed: Terminated
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@57946125[Object Repository/SC001_TC002OR/10AnnouncementPOPUp]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3422574e[Object Repository/CommonObjects/Link_Products]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@38419350[https://queuebuster.co/]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2282e08f[https://queuebuster.co/manage/setup/products.php]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@66d17531[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1fcf9064[Object Repository/CommonObjects/Link_Products]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@64fa2831[Object Repository/CommonObjects/Link_Master Data]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@18108b9d[Object Repository/CommonObjects/Link_Master Data  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4a435b76[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3a8bb318[Object Repository/CommonObjects/Link_Products]
+Launcher status after execution process completed: Terminated
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@30402c74[Object Repository/SC001_TC002OR/Product_SearchField]
+All launchers terminated
+
+Fri Mar 10 13:26:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
+
+Fri Mar 10 13:27:33 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task

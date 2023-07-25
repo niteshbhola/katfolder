@@ -1,0 +1,650 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: DIA_LBL_SELECT_TEST_DATA in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: HAND_WARN_TS_REQUIRES_PLUGIN_DYNAMIC_EXECUTION_TO_OPEN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: DIA_INFO_KSE_COMBINE_MULTI_DATASOURCE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_SHELL_DATA_ITERATION in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_LBL_TO_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_START_ROW_BIGGER_THAN_END_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: EDI_TITLE_TEST_CASE_BROWSER in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_CHOOSE_DATA_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_TABLE_EMPTY_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_WARN_MSG_EMPTY_COLUMN_NAME in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: PA_LBL_TOOLTIP_RETRY_IMMEDIATELY in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 64630
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+End checking and mark activated for GUI mode
+Your current licensed session is valid until: null
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername hp
+End appending additional signatures 62532fe0-f0e6-4bc7-8c3c-88d703e001eb__hp
+End getting machine ID on Windows 3e88d5dd9cc3224adb59187d5ff6c5de
+Activating credentials...
+Fetching organizations...
+Retrievinng token using credentials...
+Fetching organizations using token...
+3 organization(s) fetched
+Start check license task
+
+Mon Jun 05 15:04:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: DIA_LBL_LIST_OF_COL_NAMES in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Warning: NLS unused message: DIA_LBL_SELECT_A_COL in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Mon Jun 05 15:04:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+
+Mon Jun 05 15:05:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Mon Jun 05 15:05:36 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 15:05:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@49257eb7[org.codehaus.groovy.ast.expr.ConstantExpression@47e289e3[3], org.codehaus.groovy.ast.expr.PropertyExpression@43dd15c7[object: org.codehaus.groovy.ast.expr.ClassExpression@6df83d8[type: com.kms.katalon.core.model.FailureHandling] property: org.codehaus.groovy.ast.expr.ConstantExpression@646d8572[STOP_ON_FAILURE]]]
+Warning: NLS unused message: DIA_TITLE_INSTALL_INSTRUCTIONS in: com.kms.katalon.composer.mobile.constants.composerMobileMessages
+Launcher status after execution process completed: Terminated
+Jun 05, 2023 3:12:43 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 05, 2023 3:13:00 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 05, 2023 3:25:11 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 05, 2023 3:26:52 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 05, 2023 3:29:33 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 05, 2023 3:30:43 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Mon Jun 05 15:34:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2a55ad7[Object Repository/Common_LoginCaseOR/SearchStore (1)]
+
+Mon Jun 05 15:52:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 15:52:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 15:52:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 15:52:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Mon Jun 05 15:54:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 15:54:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 15:54:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 15:54:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40bdf95c[Object Repository/Common_LoginCaseOR/EnterPassword]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@3f4c00bf[object: org.codehaus.groovy.ast.expr.ClassExpression@603dc7d3[type: com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@15f691b2[Mobile]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@69bd1583[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@7dce8e16[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@2b59013[org.codehaus.groovy.ast.expr.ConstantExpression@5d540520[Object Repository/Common_LoginCaseOR/LoginPostUserPass]]], org.codehaus.groovy.ast.expr.ConstantExpression@5cc41204[30]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5d540520[Object Repository/Common_LoginCaseOR/LoginPostUserPass]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@26d313e5[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@2bd8fe45[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@2e7d9199[org.codehaus.groovy.ast.expr.ConstantExpression@5ed7e21e[Object Repository/Common_LoginCaseOR/SearchStore (1)]]], org.codehaus.groovy.ast.expr.ConstantExpression@60a59e1a[10]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5bc88e24[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@77672c6b[N]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@49544afc[NS]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5d894bb8[NStore]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5080b2b9[NStore1]
+
+Mon Jun 05 15:58:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 15:58:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@54c47dff[Object Repository/Common_LoginCaseOR/SearchStore (1)]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@359d7ae6[NStore1]
+
+Mon Jun 05 16:00:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 16:00:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@69321f78[NStore1]
+Jun 05, 2023 4:04:05 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6579025f[Object Repository/Common_LoginCaseOR/SearchStore (1)]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@342f54d1[  findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@342f54d1[  findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@3a21073e[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@3998917f[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@1b5b9761[org.codehaus.groovy.ast.expr.ConstantExpression@252ceb26[Object Repository/Common_LoginCaseOR/SearchByName]]], org.codehaus.groovy.ast.expr.ConstantExpression@1706104a[0]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3f7c0043[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2c0b8565[NStore]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@207e0eee[NStore1]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@742aaf05[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@7aed5ff0[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@7ed2c475[org.codehaus.groovy.ast.expr.ConstantExpression@3bd055cb[Object Repository/Common_LoginCaseOR/SearchByName]]], org.codehaus.groovy.ast.expr.ConstantExpression@207e0eee[NStore1], org.codehaus.groovy.ast.expr.ConstantExpression@1aa39733[0]]
+
+Mon Jun 05 16:06:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 16:06:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Mon Jun 05 16:12:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 16:13:55 IST 2023
+java.net.UnknownHostException: update.katalon.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:284)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1205)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1340)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1315)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:264)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:307)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:137)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:61)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:60)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:44)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+All launchers terminated
+
+Mon Jun 05 16:19:25 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Mon Jun 05 16:19:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: PREF_WARN_KSE_SQL_SERVER in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Warning: NLS unused message: PREF_WARN_KSE_ORACLE_SQL in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7b265106[Object Repository/SC001_TC001OR/CreateProductPage/Create_Product_Button]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6680bc0c[ Wrong page ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7b265106[Object Repository/SC001_TC001OR/CreateProductPage/Create_Product_Button]
+
+Mon Jun 05 16:37:30 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7b265106[Object Repository/SC001_TC001OR/CreateProductPage/Create_Product_Button]
+
+Mon Jun 05 17:02:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+
+Mon Jun 05 17:03:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Mon Jun 05 17:04:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 17:04:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Terminated
+
+Mon Jun 05 17:49:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 18:02:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Jun 05 18:33:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@395c9ae5[Object Repository/Common_LoginCaseOR/LoginPostUserPass]
+
+Mon Jun 05 19:06:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:28 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:28 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:28 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:28 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:18:28 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 10:33:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Terminated
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@41105379[Object Repository/Common_LoginCaseOR/RadioNStore1]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@54423034[]{ org.codehaus.groovy.ast.stmt.BlockStatement@7b183653[] }
+Jun 06, 2023 11:01:45 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Tue Jun 06 11:08:07 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 11:33:02 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Jun 06, 2023 11:33:53 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 06, 2023 11:35:08 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 06, 2023 11:38:30 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 06, 2023 11:44:26 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 06, 2023 11:45:24 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 06, 2023 11:47:18 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 06, 2023 11:55:17 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jun 06, 2023 11:56:32 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Tue Jun 06 12:02:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@65b278a9[   ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@39c87fd6[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@727dc934[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@67322022[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1e263c5f[Object Repository/SC001_TC001_OR/TextView-8178331074]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7ab13a5b[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7ab13a5b[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6c9d64c5[Object Repository/SC001_TC001_OR/TextView-8178331074  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2681e8bd[Object Reposito]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@698a3689[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@698a3689[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@17970816[ findTestObject(]
+Launcher status after execution process completed: Running
+
+Tue Jun 06 12:11:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 12:11:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6367e43[Object Repository/SC001_TC001_OR/TextViewCust2]
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Terminated
+
+Tue Jun 06 12:15:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 12:15:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2e5667f1[Object Repository/SC001_TC001_OR/TextViewCust2]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@75f7dac3[Object Repository/SC001_TC001_OR/TextViewCust2]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47321f08[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47321f08[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4b29b016[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3791f96f[ findTestObject(]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@72bd7755[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2d7bef58[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4e1fd3fe[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@1b5593cc[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@15927ed6[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@11adf8bc[org.codehaus.groovy.ast.expr.ConstantExpression@54af74ed[Object Repository/SC001_TC001_OR/TextView - Cash]]], org.codehaus.groovy.ast.expr.ConstantExpression@63534647[0]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6eabe64f[  findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6eabe64f[  findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@66cb1c15[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@33028468[300]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@5ce07efa[]
+
+Tue Jun 06 12:32:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 12:32:45 IST 2023
+java.net.UnknownHostException: update.katalon.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:284)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1205)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1340)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1315)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:264)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:307)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:137)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:61)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:60)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:44)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Tue Jun 06 13:02:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 13:04:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 13:04:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Terminated
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@236dbca3[Object Repository/SC001_TC001_OR/TextView-8178331074]
+Launcher status after execution process completed: Running
+
+Tue Jun 06 13:18:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 13:18:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 13:18:57 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 13:18:57 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1fcf057b[Object Repository/SC001_TC001_OR/TextView - Cash]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6b3bf2f1[Object Repository/SC001_TC001_OR/TextView - SearchName]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7d85d425[J]
+
+Tue Jun 06 13:24:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Tue Jun 06 13:32:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 14:26:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 14:26:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Terminated
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Tue Jun 06 14:36:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 14:36:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@54c79f9a[Object Repository/SC001_TC001_OR/TextView - Cash]
+
+Tue Jun 06 14:40:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 14:40:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@72542700[Object Repository/SC001_TC001_OR/TextView-8178331074]
+
+Tue Jun 06 14:40:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 14:40:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Tue Jun 06 14:43:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 14:43:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Tue Jun 06 14:50:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 14:50:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 14:50:04 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Jun 06 14:50:04 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@11887e7f[Object Repository/SC001_TC001_OR/TextView - Add Balance]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6434e2c5[Object Repository/SC001_TC001_OR/TextViewAll Customers]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@35d9bbec[object: org.codehaus.groovy.ast.expr.ClassExpression@6962b3d2[type: com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@4b5d4208[Mobile]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@510fb626[Object Repository/Common_LoginCaseOR/LoginPostUserPass]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@510fb626[Object Repository/Common_LoginCaseOR/LoginPostUserPass]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@459854ca[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@5552faf5[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@4f97502a[org.codehaus.groovy.ast.expr.ConstantExpression@272702c7[Object Repository/Common_LoginCaseOR/InitialLoginButton]]], org.codehaus.groovy.ast.expr.ConstantExpression@209e2ced[0]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3396451d[Object Repository/Common_LoginCaseOR/InitialLoginButton]
+Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3396451d[Object Repository/Common_LoginCaseOR/InitialLoginButton]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3396451d[Object Repository/Common_LoginCaseOR/InitialLoginButton]
+All launchers terminated
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task

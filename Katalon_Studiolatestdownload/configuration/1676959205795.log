@@ -1,0 +1,1975 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: DIA_LBL_SELECT_TEST_DATA in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: HAND_WARN_TS_REQUIRES_PLUGIN_DYNAMIC_EXECUTION_TO_OPEN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: DIA_INFO_KSE_COMBINE_MULTI_DATASOURCE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_SHELL_DATA_ITERATION in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_LBL_TO_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_START_ROW_BIGGER_THAN_END_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: EDI_TITLE_TEST_CASE_BROWSER in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_CHOOSE_DATA_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_TABLE_EMPTY_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_WARN_MSG_EMPTY_COLUMN_NAME in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: PA_LBL_TOOLTIP_RETRY_IMMEDIATELY in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 52843
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername hp
+End appending additional signatures 62532fe0-f0e6-4bc7-8c3c-88d703e001eb__hp
+End getting machine ID on Windows 3e88d5dd9cc3224adb59187d5ff6c5de
+Expired License.
+End checking and mark activated for GUI mode
+Your current licensed session is valid until: February 22, 2023 11:30
+Start check license task
+
+Tue Feb 21 11:30:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: DIA_LBL_LIST_OF_COL_NAMES in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Warning: NLS unused message: DIA_LBL_SELECT_A_COL in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+
+Tue Feb 21 11:30:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: PREF_WARN_KSE_SQL_SERVER in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Warning: NLS unused message: PREF_WARN_KSE_ORACLE_SQL in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+Warning: NLS unused message: PREF_LBL_ACTIVE_BROWSER_PORT_DO_NOT_SHOW_WARNING_DIALOG in: com.kms.katalon.objectspy.constants.objectspyMessages
+
+Tue Feb 21 11:30:41 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 11:30:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 11:30:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@548376e[Object Repository/SC001_TC004OR/CategoryName_FieldWhileCreation]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@548376e[Object Repository/SC001_TC004OR/CategoryName_FieldWhileCreation]
+
+Tue Feb 21 12:00:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 12:30:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 13:00:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 13:30:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 14:00:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 15:06:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 15:06:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 15:30:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 16:00:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 16:30:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 17:00:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 17:37:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 18:00:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 18:53:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Feb 21 19:00:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 10:31:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 11:28:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 11:32:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 12:00:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 12:30:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 13:00:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@62b94f6f[Object Repository/SC001_TC007OR/input_brandnamefield]
+
+Wed Feb 22 13:30:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 14:00:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:15:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:15:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3e918618[https://queuebuster.co/manage/setup/brand.php]
+Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:19:38 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncherToRunningList(LauncherManager.java:54)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.schedule(LauncherManager.java:206)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncher(LauncherManager.java:49)
+	at com.kms.katalon.composer.execution.handlers.AbstractExecutionHandler$3.run(AbstractExecutionHandler.java:510)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+
+
+Wed Feb 22 15:19:38 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncherToRunningList(LauncherManager.java:54)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.schedule(LauncherManager.java:206)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncher(LauncherManager.java:49)
+	at com.kms.katalon.composer.execution.handlers.AbstractExecutionHandler$3.run(AbstractExecutionHandler.java:510)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:21:05 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:21:05 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Launcher status after execution process completed: Terminated
+
+Wed Feb 22 15:21:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6f15db79[Object Repository/SC001_TC001OR/CreateProductPage/Create_Product_Button]
+Warning: NLS unused message: DIA_TITLE_INSTALL_INSTRUCTIONS in: com.kms.katalon.composer.mobile.constants.composerMobileMessages
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6f15db79[Object Repository/SC001_TC001OR/CreateProductPage/Create_Product_Button]
+Launcher status after execution process completed: Terminated
+Launcher status after execution process completed: Terminated
+
+Wed Feb 22 15:23:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4858641e[https://queuebuster.co/]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4858641e[https://queuebuster.co/]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@568e0492[TestData]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@37b00d3d[Object Repository/CommonObjects/Username]
+
+Wed Feb 22 15:29:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:29:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:29:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:29:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:29:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:29:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:30:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4858641e[https://queuebuster.co/]
+Launcher status after execution process completed: Running
+
+Wed Feb 22 15:31:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:31:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:31:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:31:33 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:31:33 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:31:33 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:31:46 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncherToRunningList(LauncherManager.java:54)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.schedule(LauncherManager.java:206)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncher(LauncherManager.java:49)
+	at com.kms.katalon.composer.execution.handlers.AbstractExecutionHandler$3.run(AbstractExecutionHandler.java:510)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+
+
+Wed Feb 22 15:31:46 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncherToRunningList(LauncherManager.java:54)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.schedule(LauncherManager.java:206)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncher(LauncherManager.java:49)
+	at com.kms.katalon.composer.execution.handlers.AbstractExecutionHandler$3.run(AbstractExecutionHandler.java:510)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:32:48 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:32:48 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-120" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:34:49 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:34:49 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:35:45 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:35:45 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-129" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:36:33 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:36:33 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:37:43 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:37:43 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-134" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:38:48 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:38:48 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:38:52 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:38:52 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Launcher status after execution process completed: Running
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:38:57 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:38:57 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:39:01 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:154)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:39:01 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:154)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Start writing execution.uuid file to folder: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230222_153140\QBTestSuite\20230222_153141
+Start generating JUnit report folder at: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230222_153140\QBTestSuite\20230222_153141...
+JUnit report were generated at folder: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230222_153140\QBTestSuite\20230222_153141
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/files/upload-urls?projectId=822769&numberUrl=13, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:39:04 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:39:04 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:39:04 IST 2023
+System is unable to send report to Katalon TestOps. Reason: com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:39:04 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:39:04 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 15:39:04 IST 2023
+System is unable to email report. Reason: org.apache.commons.mail.EmailException: javax.mail.internet.AddressException: Illegal address in string ``''
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1974)
+	at org.apache.commons.mail.Email.setFrom(Email.java:757)
+	at org.apache.commons.mail.Email.setFrom(Email.java:740)
+	at com.kms.katalon.execution.util.MailUtil.initEmail(MailUtil.java:106)
+	at com.kms.katalon.execution.util.MailUtil.sendSummaryMailForTestSuite(MailUtil.java:147)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReportEmail(ReportableLauncher.java:359)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReport(ReportableLauncher.java:306)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:164)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.mail.internet.AddressException: Illegal address in string ``''
+	at javax.mail.internet.InternetAddress.<init>(InternetAddress.java:122)
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1949)
+	... 11 more
+
+
+
+Wed Feb 22 15:39:04 IST 2023
+org.apache.commons.mail.EmailException: javax.mail.internet.AddressException: Illegal address in string ``''
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1974)
+	at org.apache.commons.mail.Email.setFrom(Email.java:757)
+	at org.apache.commons.mail.Email.setFrom(Email.java:740)
+	at com.kms.katalon.execution.util.MailUtil.initEmail(MailUtil.java:106)
+	at com.kms.katalon.execution.util.MailUtil.sendSummaryMailForTestSuite(MailUtil.java:147)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReportEmail(ReportableLauncher.java:359)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReport(ReportableLauncher.java:306)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:164)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.mail.internet.AddressException: Illegal address in string ``''
+	at javax.mail.internet.InternetAddress.<init>(InternetAddress.java:122)
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1949)
+	... 11 more
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Wed Feb 22 15:39:06 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:196)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Wed Feb 22 15:39:06 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:196)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-139" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@48ddd315[Object Repository/SC001_TC001OR/CreateProductPage/Product_NameField]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@67fd7a65[Object Repository/SC001_TC001OR/CreateProductPage/Create_Product_Button]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@356116cb[TC-QBDashboard/LoginCase_Common]
+Launcher status after execution process completed: Running
+
+Wed Feb 22 16:01:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:07:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Wed Feb 22 16:09:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4d61a1a8[Object Repository/SC001_TC003OR/InitialProductDelete]
+
+Wed Feb 22 16:13:41 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2ccc8509[Object Repository/SC001_TC004OR/CategoryName_FieldWhileCreation]
+Launcher status after execution process completed: Running
+
+Wed Feb 22 16:18:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7cc1f95e[Object Repository/CommonObjects/Link_Category]
+Launcher status after execution process completed: Running
+
+Wed Feb 22 16:20:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@31c3030c[Object Repository/CommonObjects/Link_Category]
+
+Wed Feb 22 16:26:16 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:16 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:16 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:16 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:16 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:16 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 16:26:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Wed Feb 22 16:31:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7c656e14[https://queuebuster.co/manage/setup/category.php]
+
+Wed Feb 22 17:00:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 17:25:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 17:25:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 17:25:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 17:25:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 17:25:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 17:25:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Exception in thread "Thread-208" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Feb 22, 2023 5:29:33 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Feb 22, 2023 5:29:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7aa904d4[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7aa904d4[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6259e501[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1ad2e322[Object Repository/SC001_TC006OR/DeleteCategoryButton]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@65a47726[Object Repository/SC001_TC006OR/Popupmodal_Deletebutton]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@65a47726[Object Repository/SC001_TC006OR/Popupmodal_Deletebutton]
+Launcher status after execution process completed: Terminated
+Launcher status after execution process completed: Running
+
+Wed Feb 22 17:40:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Wed Feb 22 17:46:36 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 17:46:36 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 17:46:36 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 17:46:36 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 17:46:36 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Exception in thread "Thread-391" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Launcher status after execution process completed: Running
+
+Wed Feb 22 18:00:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 18:51:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Feb 22 19:00:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 10:22:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 11:01:28 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 11:01:28 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 11:30:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 12:00:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 12:37:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 12:47:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 12:47:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 12:47:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 12:47:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 12:47:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Feb 23, 2023 12:50:34 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Feb 23, 2023 12:50:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Thu Feb 23 13:00:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@325572c0[Object Repository/SC001_TC006OR/DeleteCategoryButton]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1fcd9b8d[Object Repository/SC001_TC002OR/Product_SearchField]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ebddc31[Object Repository/SC001_TC001OR/CreateProductPage/Product_DescriptionField]
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Thu Feb 23 13:30:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5bf15602[Object Repository/SC001_TC004OR/CategoryName_FieldWhileCreation]
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Thu Feb 23 13:33:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5f6388b[Object Repository/SC001_TC005OR/Testcatcat]
+Launcher status after execution process completed: Running
+
+Thu Feb 23 13:37:57 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47f8d736[Object Repository/SC001_TC007OR/button_SaveBrand]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@48948706[Object Repository/SC001_TC007OR/button_SaveBrand]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@48948706[Object Repository/SC001_TC007OR/button_SaveBrand]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2c2e5007[ Object Repository/SC001_TC007OR/button_SaveBrand          ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2c2e5007[ Object Repository/SC001_TC007OR/button_SaveBrand          ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2c2e5007[ Object Repository/SC001_TC007OR/button_SaveBrand          ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7f3a6552[ Object Repository/SC001_TC007OR/button_SaveBrand]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7f3a6552[ Object Repository/SC001_TC007OR/button_SaveBrand]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6d41f3d9[Object Repository/SC001_TC007OR/button_SaveBrand]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@2f8da469[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@2d112667[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@4c190f24[org.codehaus.groovy.ast.expr.ConstantExpression@578f77f[Object Repository/SC001_TC007OR/button_SaveBrand]]]]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@27ceb673[Object Repository/SC001_TC007OR/button_SaveBrand]
+Launcher status after execution process completed: Running
+
+Thu Feb 23 14:00:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 15:06:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 15:06:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 15:18:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4d33fbb5[ Brand available For Editing ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@70dbf5fb[ Brand available For Editing ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ecc0167[ Brand available For  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1c830507[ Brand available For De ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@77e1d27c[ Brand available For Deletin ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4d4560e6[ Brand available For Deletion ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4d4560e6[ Brand available For Deletion ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1dd69a9c[Object Repository/SC001_TC008OR/Brand_DeleteConfirmationClick]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2f375c60[Object Repository/SC001_TC008OR/Brand_Deletebutton]
+
+Thu Feb 23 15:30:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12f16ead[Object Repository/CommonObjects/Link_Products]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7763c91a[Object Repository/SC001_TC003OR/InitialProductDelete]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3d0195e1[Product Successfully Deleted]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3d0195e1[Product Successfully Deleted]
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 15:58:21 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncherToRunningList(LauncherManager.java:54)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.schedule(LauncherManager.java:206)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncher(LauncherManager.java:49)
+	at com.kms.katalon.composer.execution.handlers.AbstractExecutionHandler$3.run(AbstractExecutionHandler.java:510)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+
+
+Thu Feb 23 15:58:21 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncherToRunningList(LauncherManager.java:54)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.schedule(LauncherManager.java:206)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncher(LauncherManager.java:49)
+	at com.kms.katalon.composer.execution.handlers.AbstractExecutionHandler$3.run(AbstractExecutionHandler.java:510)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:00:13 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:00:13 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-687" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+
+Thu Feb 23 16:00:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:02:29 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:02:29 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:03:49 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:03:49 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-706" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:05:36 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:05:36 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:07:00 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:07:00 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-711" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:09:04 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:09:04 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:10:49 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:10:49 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-716" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:12:31 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:12:31 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Launcher status after execution process completed: Running
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:13:42 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:13:42 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:13:44 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:154)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:13:44 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:154)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Start writing execution.uuid file to folder: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230223_155816\QBTestSuite\20230223_155817
+Start generating JUnit report folder at: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230223_155816\QBTestSuite\20230223_155817...
+JUnit report were generated at folder: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230223_155816\QBTestSuite\20230223_155817
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/files/upload-urls?projectId=822769&numberUrl=9, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:13:47 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:13:47 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:13:47 IST 2023
+System is unable to send report to Katalon TestOps. Reason: com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:13:47 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:13:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 16:13:47 IST 2023
+System is unable to email report. Reason: org.apache.commons.mail.EmailException: javax.mail.internet.AddressException: Illegal address in string ``''
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1974)
+	at org.apache.commons.mail.Email.setFrom(Email.java:757)
+	at org.apache.commons.mail.Email.setFrom(Email.java:740)
+	at com.kms.katalon.execution.util.MailUtil.initEmail(MailUtil.java:106)
+	at com.kms.katalon.execution.util.MailUtil.sendSummaryMailForTestSuite(MailUtil.java:147)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReportEmail(ReportableLauncher.java:359)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReport(ReportableLauncher.java:306)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:164)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.mail.internet.AddressException: Illegal address in string ``''
+	at javax.mail.internet.InternetAddress.<init>(InternetAddress.java:122)
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1949)
+	... 11 more
+
+
+
+Thu Feb 23 16:13:47 IST 2023
+org.apache.commons.mail.EmailException: javax.mail.internet.AddressException: Illegal address in string ``''
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1974)
+	at org.apache.commons.mail.Email.setFrom(Email.java:757)
+	at org.apache.commons.mail.Email.setFrom(Email.java:740)
+	at com.kms.katalon.execution.util.MailUtil.initEmail(MailUtil.java:106)
+	at com.kms.katalon.execution.util.MailUtil.sendSummaryMailForTestSuite(MailUtil.java:147)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReportEmail(ReportableLauncher.java:359)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReport(ReportableLauncher.java:306)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:164)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.mail.internet.AddressException: Illegal address in string ``''
+	at javax.mail.internet.InternetAddress.<init>(InternetAddress.java:122)
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1949)
+	... 11 more
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Thu Feb 23 16:13:49 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:196)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:13:49 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:196)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Feb 23 16:15:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@f1d0abf[Object Repository/SC001_TC009OR/input_ProductQuantity]
+
+Thu Feb 23 16:17:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 16:17:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 16:17:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 16:17:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 16:17:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 16:17:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 16:17:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Feb 23 16:17:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@327ff32b[Object Repository/SC001_TC009OR/input_ProductQuantity]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@196a8353[Object Repository/SC001_TC009OR/button_SaveCOmbopage]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6512b8e5[QACombo1]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@54ab8a55[2]
+
+Thu Feb 23 16:30:22 IST 2023
+Azure: Enterprise license for this feature is requested
+

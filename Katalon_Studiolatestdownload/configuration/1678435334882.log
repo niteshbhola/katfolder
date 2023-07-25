@@ -1,0 +1,3360 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: DIA_LBL_SELECT_TEST_DATA in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: HAND_WARN_TS_REQUIRES_PLUGIN_DYNAMIC_EXECUTION_TO_OPEN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: DIA_INFO_KSE_COMBINE_MULTI_DATASOURCE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_SHELL_DATA_ITERATION in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_LBL_TO_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_START_ROW_BIGGER_THAN_END_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: EDI_TITLE_TEST_CASE_BROWSER in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_CHOOSE_DATA_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_TABLE_EMPTY_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_WARN_MSG_EMPTY_COLUMN_NAME in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: PA_LBL_TOOLTIP_RETRY_IMMEDIATELY in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 60424
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername hp
+End appending additional signatures 62532fe0-f0e6-4bc7-8c3c-88d703e001eb__hp
+End getting machine ID on Windows 3e88d5dd9cc3224adb59187d5ff6c5de
+End checking and mark activated for GUI mode
+Your current licensed session is valid until: March 11, 2023 13:32
+Start check license task
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+
+Fri Mar 10 13:37:57 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS missing message: BTN_UPLOAD in: com.kms.katalon.composer.integration.analytics.constants.composerIntegrationAnalyticsMessages
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+Warning: NLS unused message: DIA_LBL_LIST_OF_COL_NAMES in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Warning: NLS unused message: DIA_LBL_SELECT_A_COL in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+
+Fri Mar 10 13:39:06 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+
+Fri Mar 10 13:40:02 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Fri Mar 10 13:40:17 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 13:40:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 13:40:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 13:40:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 14:59:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 14:59:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 15:02:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 16:23:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 16:23:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 16:47:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@7dc9ea4d[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@576bf503[ Right page ]
+
+Fri Mar 10 17:05:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2ea6b475[Successfully Landed On Category page]
+
+Fri Mar 10 17:06:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4bf428f8[]
+
+Fri Mar 10 17:06:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@4f57e111[object: org.codehaus.groovy.ast.expr.ClassExpression@3cc26152[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@3c8e90c1[WebUI]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4067088c[]
+
+Fri Mar 10 17:07:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@51a17877[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@21c8082[Object Repository/CommonObjects/MasterModule]
+
+Fri Mar 10 17:07:56 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@432fe0ff[Object Repository/CommonObjects/MasterModule]
+
+Fri Mar 10 17:08:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@3357bb31[]
+
+Fri Mar 10 17:09:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@6af22808[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@186886ee[Object Repository/CommonObjects/Link_Category]
+
+Fri Mar 10 17:28:19 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5eeaec1a[Object Repository/CommonObjects/Link_Category]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@8925ea1[Object Repository/CommonObjects/MasterModule]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@8925ea1[Object Repository/CommonObjects/MasterModule]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@34ceaeb3[Object Repository/SC001_TC009OR/button_Create Combo]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@8925ea1[Object Repository/CommonObjects/MasterModule]
+
+Fri Mar 10 17:30:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:30:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:31:19 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:31:33 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@27010258[Object Repository/SC001_TC002OR/Product_SearchField]
+
+Fri Mar 10 17:36:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:36:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:36:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:36:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:36:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:36:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:36:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:36:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:36:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:36:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:37:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:37:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:37:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:37:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:37:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:38:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:38:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:38:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:38:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:38:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:38:12 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncherToRunningList(LauncherManager.java:54)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.schedule(LauncherManager.java:206)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncher(LauncherManager.java:49)
+	at com.kms.katalon.composer.execution.handlers.AbstractExecutionHandler$3.run(AbstractExecutionHandler.java:510)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+
+
+Fri Mar 10 17:38:12 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncherToRunningList(LauncherManager.java:54)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.schedule(LauncherManager.java:206)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncher(LauncherManager.java:49)
+	at com.kms.katalon.composer.execution.handlers.AbstractExecutionHandler$3.run(AbstractExecutionHandler.java:510)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:40:22 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:40:22 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-4" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:42:44 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:42:44 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:43:51 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:43:51 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-181" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+
+Fri Mar 10 17:44:28 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:44:39 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:44:39 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:46:59 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:46:59 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-186" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:48:53 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:48:53 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Launcher status after execution process completed: Running
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:50:51 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:50:51 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:50:54 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:154)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:50:54 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:154)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Start writing execution.uuid file to folder: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230310_173807\QBTestSuite\20230310_173808
+Start generating JUnit report folder at: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230310_173807\QBTestSuite\20230310_173808...
+JUnit report were generated at folder: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230310_173807\QBTestSuite\20230310_173808
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/files/upload-urls?projectId=822769&numberUrl=11, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:50:57 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:50:57 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:50:57 IST 2023
+System is unable to send report to Katalon TestOps. Reason: com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:50:57 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:50:57 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 17:50:57 IST 2023
+System is unable to email report. Reason: org.apache.commons.mail.EmailException: javax.mail.internet.AddressException: Illegal address in string ``''
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1974)
+	at org.apache.commons.mail.Email.setFrom(Email.java:757)
+	at org.apache.commons.mail.Email.setFrom(Email.java:740)
+	at com.kms.katalon.execution.util.MailUtil.initEmail(MailUtil.java:106)
+	at com.kms.katalon.execution.util.MailUtil.sendSummaryMailForTestSuite(MailUtil.java:147)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReportEmail(ReportableLauncher.java:359)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReport(ReportableLauncher.java:306)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:164)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.mail.internet.AddressException: Illegal address in string ``''
+	at javax.mail.internet.InternetAddress.<init>(InternetAddress.java:122)
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1949)
+	... 11 more
+
+
+
+Fri Mar 10 17:50:57 IST 2023
+org.apache.commons.mail.EmailException: javax.mail.internet.AddressException: Illegal address in string ``''
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1974)
+	at org.apache.commons.mail.Email.setFrom(Email.java:757)
+	at org.apache.commons.mail.Email.setFrom(Email.java:740)
+	at com.kms.katalon.execution.util.MailUtil.initEmail(MailUtil.java:106)
+	at com.kms.katalon.execution.util.MailUtil.sendSummaryMailForTestSuite(MailUtil.java:147)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReportEmail(ReportableLauncher.java:359)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReport(ReportableLauncher.java:306)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:164)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.mail.internet.AddressException: Illegal address in string ``''
+	at javax.mail.internet.InternetAddress.<init>(InternetAddress.java:122)
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1949)
+	... 11 more
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 17:51:00 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:196)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 17:51:00 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:196)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@7d226d39[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@57cc8274[Product Successfully Deleted]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6ad491cf[TestCategory007edited]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6ad491cf[TestCategory007edited]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@13f32d99[TestCategory007]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@a6b8f35[]
+
+Fri Mar 10 18:01:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@d0c861b[Brand Not available]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@d0c861b[Brand Not available]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5d2973cb[Brand Not available ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1255acc6[Brand Not available F]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@252fdf3f[Brand Not available For ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5ffbf213[Brand Not available For Deletion]
+
+Fri Mar 10 18:02:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:04:02 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:50:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:50:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:50:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:50:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:50:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:50:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:50:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:51:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:51:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:51:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:51:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:51:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:51:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 18:51:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7e45a873[https://queuebuster.co/manage/setup/combo.php]
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 18:51:34 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncherToRunningList(LauncherManager.java:54)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.schedule(LauncherManager.java:206)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncher(LauncherManager.java:49)
+	at com.kms.katalon.composer.execution.handlers.AbstractExecutionHandler$3.run(AbstractExecutionHandler.java:510)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+
+
+Fri Mar 10 18:51:34 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncherToRunningList(LauncherManager.java:54)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.schedule(LauncherManager.java:206)
+	at com.kms.katalon.execution.launcher.manager.LauncherManager.addLauncher(LauncherManager.java:49)
+	at com.kms.katalon.composer.execution.handlers.AbstractExecutionHandler$3.run(AbstractExecutionHandler.java:510)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 18:53:08 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 18:53:08 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 18:54:52 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 18:54:52 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 18:55:06 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 18:55:57 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 18:55:57 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-277" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 18:56:58 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 18:56:58 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 18:57:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 18:58:29 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 18:58:29 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 19:00:05 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 19:00:05 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Exception in thread "Thread-288" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+	at com.kms.katalon.execution.session.ExecutionSessionSocketServer$ExecutionSessionWatcher.run(ExecutionSessionSocketServer.java:157)
+	at java.lang.Thread.run(Thread.java:748)
+Launcher status after execution process completed: Running
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 19:02:01 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 19:02:01 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:253)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:129)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 19:02:04 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:154)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 19:02:04 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:154)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Start writing execution.uuid file to folder: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230310_185128\QBTestSuite\20230310_185128
+Start generating JUnit report folder at: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230310_185128\QBTestSuite\20230310_185128...
+JUnit report were generated at folder: C:\Core\QBAutomation\QB_DashboardAutomationScripts\Reports\20230310_185128\QBTestSuite\20230310_185128
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/files/upload-urls?projectId=822769&numberUrl=9, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 19:02:08 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 19:02:08 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 19:02:08 IST 2023
+System is unable to send report to Katalon TestOps. Reason: com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 19:02:08 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:730)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.getMultipleUploadInfo(AnalyticsApiProvider.java:459)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.perform(AnalyticsReportService.java:112)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.uploadReports(AnalyticsReportService.java:69)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.upload(AnalyticsReportService.java:54)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.uploadTestSuiteResult(AnalyticsReportIntegration.java:195)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.uploadReportToIntegratingProduct(ReportableLauncher.java:538)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:162)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 19:02:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 10 19:02:08 IST 2023
+System is unable to email report. Reason: org.apache.commons.mail.EmailException: javax.mail.internet.AddressException: Illegal address in string ``''
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1974)
+	at org.apache.commons.mail.Email.setFrom(Email.java:757)
+	at org.apache.commons.mail.Email.setFrom(Email.java:740)
+	at com.kms.katalon.execution.util.MailUtil.initEmail(MailUtil.java:106)
+	at com.kms.katalon.execution.util.MailUtil.sendSummaryMailForTestSuite(MailUtil.java:147)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReportEmail(ReportableLauncher.java:359)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReport(ReportableLauncher.java:306)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:164)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.mail.internet.AddressException: Illegal address in string ``''
+	at javax.mail.internet.InternetAddress.<init>(InternetAddress.java:122)
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1949)
+	... 11 more
+
+
+
+Fri Mar 10 19:02:08 IST 2023
+org.apache.commons.mail.EmailException: javax.mail.internet.AddressException: Illegal address in string ``''
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1974)
+	at org.apache.commons.mail.Email.setFrom(Email.java:757)
+	at org.apache.commons.mail.Email.setFrom(Email.java:740)
+	at com.kms.katalon.execution.util.MailUtil.initEmail(MailUtil.java:106)
+	at com.kms.katalon.execution.util.MailUtil.sendSummaryMailForTestSuite(MailUtil.java:147)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReportEmail(ReportableLauncher.java:359)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.sendReport(ReportableLauncher.java:306)
+	at com.kms.katalon.execution.launcher.ReportableLauncher.preExecutionComplete(ReportableLauncher.java:164)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:194)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.mail.internet.AddressException: Illegal address in string ``''
+	at javax.mail.internet.InternetAddress.<init>(InternetAddress.java:122)
+	at org.apache.commons.mail.Email.createInternetAddress(Email.java:1949)
+	... 11 more
+
+
+Katalon TestOps: Unexpected response, URL: https://testops.katalon.io/api/v1/katalon/test-reports/update-result?projectId=822769, Status: 403, Response: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+
+Fri Mar 10 19:02:11 IST 2023
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:196)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 19:02:11 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"access_denied","error_description":"Either this resource does not exist, or the current user does not have permissions to access this resource"}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:704)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.updateTestRunResult(AnalyticsApiProvider.java:761)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:217)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:249)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:66)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.setStatus(ProcessLauncher.java:87)
+	at com.kms.katalon.execution.launcher.ProcessLauncher.onWatchdogComplete(ProcessLauncher.java:196)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.notifyProcessTerminated(LaunchWatchdog.java:136)
+	at com.kms.katalon.execution.launcher.LaunchWatchdog.run(LaunchWatchdog.java:66)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Mar 10 19:02:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@63065c5d[TestCategory007edited]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@f2559b6[if (WebUI.verifyTextPresent("TestCategory007edited", true))
+	
+	print("Edited Category Successfully Found")
+	
+	else
+		print("Edited Category Not Found")
+WebUI.delay(4)
+
+]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1bd2d9ec[TestCategory007edited]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1bd2d9ec[TestCategory007edited]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2ecc2882[TestCategory007]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6bdc5201[Edited Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@65b9f645[Edited Category Successfully Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@65b9f645[Edited Category Successfully Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7f201ef6[ Category Successfully Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7f201ef6[ Category Successfully Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7f201ef6[ Category Successfully Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7f201ef6[ Category Successfully Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3ca858da[Category Successfully Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@720a1e88[Edited Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@720a1e88[Edited Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7d17f89c[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7d17f89c[Category Not Found]
+Expired License.
+Expired License.
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:19:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 10:33:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 11:17:59 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7497d942[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7497d942[Category Not Found]
+
+Mon Mar 13 11:33:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7497d942[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7497d942[Category Not Found]
+
+Mon Mar 13 12:02:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7497d942[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@48d3a785[Object Repository/SC001_TC006OR/DeleteCategoryButton]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@125dedc9[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@125dedc9[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@125dedc9[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@125dedc9[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@125dedc9[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@125dedc9[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@125dedc9[Category Not Found]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@125dedc9[Category Not Found]
+
+Mon Mar 13 12:26:59 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 12:32:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 12:48:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 12:48:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 12:48:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 12:48:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 12:48:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 12:48:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 12:48:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Mon Mar 13 13:02:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Mon Mar 13 13:07:15 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:07:15 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:07:15 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:07:15 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:07:15 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:07:15 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:07:15 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Mon Mar 13 13:10:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:10:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:10:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:10:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:10:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:10:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:10:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:16:25 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3dbca118[https://queuebuster.co/manage/setup/products.php]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7cde81aa[Object Repository/CommonObjects/Link_Master Data]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5f4ed0fe[TestProduct007]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5d8de1a3[Object Repository/SC001_TC007OR/input_brandnamefield]
+
+Mon Mar 13 13:23:05 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:23:05 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:23:05 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:23:05 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:23:05 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:23:05 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:23:05 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:23:05 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Mon Mar 13 13:32:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+
+Mon Mar 13 13:42:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Mon Mar 13 13:43:06 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:43:07 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 13:43:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 14:02:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 14:57:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 15:02:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+
+Mon Mar 13 15:14:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+Warning: NLS unused message: PREF_WARN_KSE_SQL_SERVER in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Warning: NLS unused message: PREF_WARN_KSE_ORACLE_SQL in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+All launchers terminated
+
+Mon Mar 13 15:15:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Mon Mar 13 15:16:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 15:16:02 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 15:32:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 16:09:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@37cdd986[And he navigates the application to Graphics form]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6a281ba8[Given that user has started an application]
+
+Mon Mar 13 16:27:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 16:27:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 16:27:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 16:27:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 16:32:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@183dec3a[Story: Verify correct alarm message]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6163f810[Application/android.widget.TextView - Graphics]
+All launchers terminated
+
+Mon Mar 13 16:58:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Mon Mar 13 16:58:36 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 16:58:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4145326e[Object Repository/SC001_TC002OR/Product_SearchField]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@71bb170b[Object Repository/CommonObjects/Link_Products]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6f860526[Object Repository/SC001_TC002OR/Product_Edit]
+
+Mon Mar 13 17:02:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@37a2ebd9[https://queuebuster.co/manage/setup/products.php]
+Launcher status after execution process completed: Running
+Warning: NLS unused message: PREF_LBL_ACTIVE_BROWSER_PORT_DO_NOT_SHOW_WARNING_DIALOG in: com.kms.katalon.objectspy.constants.objectspyMessages
+Mar 13, 2023 5:09:08 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Mar 13, 2023 5:09:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3d7b3a07[Object Repository/SC001_TC002OR/Product_Edit]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5b1b586b[     ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5b1b586b[     ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5b1b586b[     ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@307652a5[     ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6fe3f6b0[Object Repository/SC001_TC002OR/Page_Products/EditProduct_Save]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@64286252[  findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@fb30cbf[Object Repository/SC001_TC002OR/Page_Products/Product_Descr_ForEditProduct]
+Launcher status after execution process completed: Running
+
+Mon Mar 13 17:34:05 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 17:40:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@5c1f0668[object: org.codehaus.groovy.ast.expr.ClassExpression@1874210b[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@6e8e6e0[WebUI]]
+
+Mon Mar 13 17:45:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3dd141d5[Product not found]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@54ffd736[Object Repository/CommonObjects/Link_Products]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@54ffd736[Object Repository/CommonObjects/Link_Products]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@747416f7[https://queuebuster.co/manage/setup/products.php]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6b9e1c08[TC-QBDashboard/LoginCase_Common]
+
+Mon Mar 13 18:14:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 18:32:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 18:45:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@53d75f4b[Object Repository/SC001_TC004OR/CreateCategory_Button]
+Launcher status after execution process completed: Running
+Mar 13, 2023 6:48:02 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Mar 13, 2023 6:48:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@74869182[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4f7f544[Object Repository/SC001_TC005OR/input_CategorySortOrder]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@15b691da[ Object Repository/SC001_TC005OR/input_CategorySortOrder]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@35bcf4b8[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@6cb36992[object: org.codehaus.groovy.ast.expr.ClassExpression@59b1319c[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@173a345d[WebUI]]
+
+Mon Mar 13 18:56:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 18:56:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 18:56:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 18:56:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 18:56:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:00:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:00:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:00:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:00:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:00:59 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6c153ec4[Object Repository/CommonObjects/Link_Category]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7a32bb4f[Object Repository/SC001_TC005OR/EditCategorySave_Button]
+
+Mon Mar 13 19:03:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:05:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:07:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4b4a0c4e[Object Repository/CommonObjects/Link_Master Data]
+
+Mon Mar 13 19:09:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:09:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:09:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:09:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:09:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:09:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Mar 13 19:09:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12c41328[Object Repository/SC001_TC007OR/Brand_module]
+
+Tue Mar 14 10:19:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:21 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:19:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 10:45:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 11:02:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 11:54:06 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 12:02:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 12:32:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:02:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:11:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:11:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:11:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:11:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:11:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:11:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:11:19 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@52fd4b7c[Object Repository/CommonObjects/Link_Master Data]
+
+Tue Mar 14 13:27:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:27:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:27:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:27:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:27:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:27:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:27:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 13:33:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 14:02:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 15:18:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 15:18:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 15:32:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 16:02:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 16:36:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 17:02:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 17:32:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@19166066[Object Repository/SC001_TC004OR/CreateCategory_Button]
+
+Tue Mar 14 18:02:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 18:32:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Mar 14 19:03:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:43:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+
+Wed Mar 15 11:57:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Wed Mar 15 11:57:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:57:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 11:57:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@44da2d69[And he navigates the application to Activity form]
+
+Wed Mar 15 12:02:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40594773[Get full directory's path of android application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40594773[Get full directory's path of android application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40594773[Get full directory's path of android application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40594773[Get full directory's path of android application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40594773[Get full directory's path of android application]
+Warning: NLS unused message: DIA_TITLE_INSTALL_INSTRUCTIONS in: com.kms.katalon.composer.mobile.constants.composerMobileMessages
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40594773[Get full directory's path of android application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40594773[Get full directory's path of android application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40594773[Get full directory's path of android application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40594773[Get full directory's path of android application]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40594773[Get full directory's path of android application]
+
+Wed Mar 15 12:32:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@25329863[And he navigates the application to Activity form]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@77412dca[Application/App/Activity/android.widget.TextView - Custom Dialog]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@796d3b1b[object: org.codehaus.groovy.ast.expr.ClassExpression@7aa66056[type: com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@3ec390e7[Mobile]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@13ac23ef[Application/android.widget.TextView - App]
+
+Wed Mar 15 12:57:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 12:57:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 12:57:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@196cca31[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@196cca31[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@196cca31[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@196cca31[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@196cca31[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4fc88f48[Desktop ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4fc88f48[Desktop ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4fc88f48[Desktop ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@781ec647[Desktop ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@781ec647[Desktop ]
+
+Wed Mar 15 13:02:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@781ec647[Desktop ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@68bf3751[DesktopappQBdebug .apk ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@68bf3751[DesktopappQBdebug .apk ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@68bf3751[DesktopappQBdebug .apk ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@3f53e7d4[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5dbe3009[Desktop/appQBdebug .apk ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5dbe3009[Desktop/appQBdebug .apk ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5dbe3009[Desktop/appQBdebug .apk ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5dbe3009[Desktop/appQBdebug .apk ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5dbe3009[Desktop/appQBdebug .apk ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5dbe3009[Desktop/appQBdebug .apk ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1673d1ba[Desktop/appQBdebug.apk]
+Launcher status after execution process completed: Running
+
+Wed Mar 15 13:32:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@75ffc702[/APIDemos.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@75ffc702[/APIDemos.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@48ed618a[Desktop/appQBdebug.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@24e38a91[appQBdebug.apk]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@55895dfa[org.codehaus.groovy.ast.expr.ConstantExpression@5b4ea93b[null], org.codehaus.groovy.ast.expr.ConstantExpression@5f71368a[false]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@58d33ba5[appQBdebug.apk]
+
+Wed Mar 15 14:02:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 15:13:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 15:13:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7e5818a6[/appQBdebug.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7e5818a6[/appQBdebug.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7e5818a6[/appQBdebug.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2f1e1be9[C:/Core/QBapkAutomation/QBapkAutomationStar/QBapkAutomationStar/androidapp/appQBdebug.apk]
+
+Wed Mar 15 15:32:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@9d53730[Application/android.widget.TextView - Graphics]
+Launcher status after execution process completed: Running
+
+Wed Mar 15 15:52:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 15:52:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 15:52:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 15:52:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 15:52:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 15:52:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 15:52:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 15:52:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@106302c0[Application/android.widget.TextView - Graphics]
+Launcher status after execution process completed: Running
+
+Wed Mar 15 16:02:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 16:32:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 17:13:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 17:32:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 18:03:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 18:38:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Wed Mar 15 19:02:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:31:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 12:32:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 13:23:07 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 13:32:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 14:02:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 15:15:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 15:15:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 16:23:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 16:23:39 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 16:35:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 17:02:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 17:35:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 18:17:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1d631a8d[Application/App/android.widget.TextView - Activity]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7b708ad3[Application/android.widget.TextView - App]
+All launchers terminated
+
+Thu Mar 16 18:31:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Thu Mar 16 18:32:15 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 18:32:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Mar 16 19:04:18 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:31 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:00:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:02:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 10:32:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@77fea8fb[org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[], org.codehaus.groovy.ast.expr.ConstantExpression@79394874[false]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+
+Fri Mar 17 11:10:30 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+
+Fri Mar 17 11:32:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+
+Fri Mar 17 12:02:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@12b984bc[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+Mar 17, 2023 12:27:35 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Fri Mar 17 12:32:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+Mar 17, 2023 12:49:32 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+Mar 17, 2023 12:52:13 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+Mar 17, 2023 1:01:08 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+
+Fri Mar 17 13:02:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ef7d40f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5a057c85[C:/Coreapp-pinePOS-debug.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3bafe87[C:/Core/app-pinePOS-debug.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@76b67f0d[ ]
+Mar 17, 2023 1:19:34 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@76b67f0d[ ]
+Mar 17, 2023 1:21:13 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Mar 17, 2023 1:22:39 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Mar 17, 2023 1:24:47 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Mar 17, 2023 1:29:06 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Fri Mar 17 13:32:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@76b67f0d[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1121cf86[C:/Core/app-pinePOS-debug.apk]
+Mar 17, 2023 1:45:48 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Mar 17, 2023 1:46:49 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1f3c0b83[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1f3c0b83[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@20cd624e[findTestObject('Object Repository/Test1OR/Login') ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@67a7e2d1[]
+Launcher status after execution process completed: Running
+
+Fri Mar 17 13:54:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Fri Mar 17 14:02:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 15:14:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 15:14:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 15:32:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 16:02:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 16:32:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 17:02:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 17:41:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 18:02:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Mar 17 18:32:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Expired License.
+Expired License.
+
+Sat Mar 18 17:10:02 IST 2023
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: java.net.UnknownHostException: admin.katalon.com
+	at com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception.wrap(AnalyticsApiExeception.java:23)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:158)
+	at com.kms.katalon.integration.analytics.providers.TestOpsFeatureActivatorImpl.connect(TestOpsFeatureActivatorImpl.java:45)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.getLicenseFromTestOps(ActivationInfoCollector.java:588)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.activate(ActivationInfoCollector.java:453)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.checkAndMarkActivatedForGUIMode(ActivationInfoCollector.java:148)
+	at com.kms.katalon.core.application.ApplicationStaupHandler.lambda$2(ApplicationStaupHandler.java:93)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.lambda$1(ActivationInfoCollector.java:966)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: admin.katalon.com
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:681)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:156)
+	... 13 more
+
+
+
+Sat Mar 18 17:10:02 IST 2023
+Activation collection is failed
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: java.net.UnknownHostException: admin.katalon.com
+	at com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception.wrap(AnalyticsApiExeception.java:23)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:158)
+	at com.kms.katalon.integration.analytics.providers.TestOpsFeatureActivatorImpl.connect(TestOpsFeatureActivatorImpl.java:45)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.getLicenseFromTestOps(ActivationInfoCollector.java:588)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.activate(ActivationInfoCollector.java:453)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.checkAndMarkActivatedForGUIMode(ActivationInfoCollector.java:148)
+	at com.kms.katalon.core.application.ApplicationStaupHandler.lambda$2(ApplicationStaupHandler.java:93)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.lambda$1(ActivationInfoCollector.java:966)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: admin.katalon.com
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:681)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:716)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:156)
+	... 13 more
+
+
+Expired License.
+Expired License.
+All launchers terminated
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task
+Start checking and mark activated for GUI mode
+End checking and mark activated for GUI mode
+Your current licensed session is valid until: March 19, 2023 17:19
+All launchers terminated
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+End release license task

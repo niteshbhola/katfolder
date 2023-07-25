@@ -1,0 +1,92 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+WebUI.callTestCase(findTestCase('TC-QBDashboard/LoginCase_Common'), null, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(4)
+WebUI.refresh()
+WebUI.delay(4)
+WebUI.click(findTestObject('Object Repository/CommonObjects/Link_Master Data'))
+WebUI.delay(4)
+WebUI.click(findTestObject('Object Repository/CommonObjects/Link_Products') )
+WebUI.delay(4)
+String Productpageurl = WebUI.getUrl()
+if (Productpageurl == "https://queuebuster.co/manage/setup/products.php")
+print(" Right page ")
+else
+print(" Wrong page ")
+WebUI.delay(2)
+
+
+WebUI.click(findTestObject('Object Repository/SC001_TC007OR/Brand_module'))
+WebUI.delay(3)
+
+String Brandpageurl = WebUI.getUrl()
+if (Brandpageurl == "https://queuebuster.co/manage/setup/brand.php")
+	print(" Sucessfully landed on Brand page ")
+	else
+	print(" Failed To Land On Brand Page ")
+	
+	WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/SC001_TC007OR/button_Create Brand'))
+WebUI.delay(3)
+
+WebUI.focus(findTestObject('Object Repository/SC001_TC007OR/input_brandnamefield'))
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/SC001_TC007OR/input_brandnamefield'))
+WebUI.delay(4)
+
+
+WebUI.setText(findTestObject('Object Repository/SC001_TC007OR/input_brandnamefield'),findTestData('TestData').getValue('BRAND',1))
+WebUI.delay(2)
+WebUI.setText(findTestObject('Object Repository/SC001_TC007OR/input_brandnamefield'), "TestBrand007")
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/SC001_TC007OR/Select_AssignBrandToProducts') )
+
+WebUI.delay(2)
+//Web + mobile scripts from apk checklist 
+
+WebUI.scrollToElement(findTestObject('Object Repository/SC001_TC007OR/button_SaveBrand'), 8)
+
+WebUI.delay(3)
+WebUI.focus(findTestObject('Object Repository/SC001_TC007OR/button_SaveBrand'))
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/SC001_TC007OR/button_SaveBrand'))
+WebUI.delay(2)
+
+WebUI.waitForJQueryLoad(6)
+
+WebUI.verifyTextPresent("TestBrand007", true)
+
+WebUI.delay(2)
+
+if (WebUI.verifyTextPresent("TestBrand007",true))
+  print("Brand Created Successfully")
+else
+	print("Created Brand not found")
+		
+WebUI.delay(4)
+WebUI.closeBrowser()
+
+
+
+
+

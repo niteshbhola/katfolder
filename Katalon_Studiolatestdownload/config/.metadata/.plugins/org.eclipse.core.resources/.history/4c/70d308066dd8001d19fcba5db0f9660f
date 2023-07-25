@@ -1,0 +1,76 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+//Editing initially created product
+//Test Data - TestDescriptionEdited,
+WebUI.callTestCase(findTestCase('TC-QBDashboard/LoginCase_Common'), null, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(4)
+WebUI.refresh()
+WebUI.delay(5)
+WebUI.click(findTestObject('Object Repository/SC001_TC001V2OR/button_Switch to NEW Version'))
+WebUI.delay(3)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/SC001_TC001V2OR/Catalog_1') )
+WebUI.delay(4)
+//WebUI.waitForPageLoad(7)
+WebUI.click(findTestObject('Object Repository/SC001_TC001V2OR/ProductModule') )
+WebUI.delay(3)
+
+//below this V1 code
+WebUI.delay(4)
+String Productpageurl = WebUI.getUrl()
+if (Productpageurl == "https://manage.queuebuster.co/master/items")
+print(" Right page ")
+else
+print(" Wrong page ")
+WebUI.delay(3)
+WebUI.waitForPageLoad(10)
+WebUI.setText(findTestObject('Object Repository/SC001_TC002V2OR/input_Searchproduct'),"testpro009")
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/SC001_TC002V2OR/Editproductimg'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/SC001_TC002V2OR/Popup_Edit') )
+
+WebUI.delay(2)
+
+WebUI.clearText(findTestObject('Object Repository/SC001_TC002V2OR/TestDescriptionEdit') )
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('Object Repository/SC001_TC002V2OR/TestDescriptionEdit'),"TestDescriptionEdited")
+
+WebUI.delay(2)
+
+WebUI.scrollToPosition(1, 0)
+
+WebUI.focus(findTestObject('Object Repository/SC001_TC002V2OR/Editbutton_Save'))
+WebUI.delay(2)
+WebUI.click(findTestObject('Object Repository/SC001_TC002V2OR/Editbutton_Save'))
+WebUI.delay(4)
+WebUI.closeBrowser()
+
+
+
+
+
+

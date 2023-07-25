@@ -1,0 +1,588 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: DIA_LBL_SELECT_TEST_DATA in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: HAND_WARN_TS_REQUIRES_PLUGIN_DYNAMIC_EXECUTION_TO_OPEN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: DIA_INFO_KSE_COMBINE_MULTI_DATASOURCE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_SHELL_DATA_ITERATION in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_LBL_TO_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_START_ROW_BIGGER_THAN_END_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: EDI_TITLE_TEST_CASE_BROWSER in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_CHOOSE_DATA_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_TABLE_EMPTY_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_WARN_MSG_EMPTY_COLUMN_NAME in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: PA_LBL_TOOLTIP_RETRY_IMMEDIATELY in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 51620
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername hp
+End appending additional signatures 62532fe0-f0e6-4bc7-8c3c-88d703e001eb__hp
+End getting machine ID on Windows 3e88d5dd9cc3224adb59187d5ff6c5de
+End checking and mark activated for GUI mode
+Your current licensed session is valid until: April 26, 2023 12:02
+Start check license task
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+
+Tue Apr 25 12:02:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: DIA_LBL_LIST_OF_COL_NAMES in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Warning: NLS unused message: DIA_LBL_SELECT_A_COL in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Tue Apr 25 12:02:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Apr 25, 2023 12:05:05 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 12:10:39 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Tue Apr 25 12:13:57 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5db86fe3[Object Repository/TC33OR/android.widget.EditText - Enter Username (1)]
+
+Tue Apr 25 12:14:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 12:14:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: DIA_TITLE_INSTALL_INSTRUCTIONS in: com.kms.katalon.composer.mobile.constants.composerMobileMessages
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+All launchers terminated
+
+Tue Apr 25 12:17:57 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 12:17:57 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Terminated
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@6ea06c68[]
+
+Tue Apr 25 12:20:30 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 12:20:30 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@defd3ff[Object Repository/TC33OR/android.widget.TextView - Log In]
+Launcher status after execution process completed: Running
+
+Tue Apr 25 12:32:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 12:40:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@52c9d204[Object Repository/TC33OR/android.widget.EditText - Enter Username (1)]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2f94436a[Object Repository/TC33OR/android.widget.EditText - Enter Username (1)]
+
+Tue Apr 25 12:42:04 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 12:42:06 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2f94436a[Object Repository/TC33OR/android.widget.EditText - Enter Username (1)]
+
+Tue Apr 25 13:02:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:09:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:09:22 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
+
+Tue Apr 25 13:09:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:09:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:09:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:09:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:09:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:09:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@d57dea7[Object Repository/TC33OR/android.widget.EditText - Enter Username (1)]
+Launcher status after execution process completed: Terminated
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47946292[Object Repository/TC33OR/android.widget.TextView - Login (1)]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47946292[Object Repository/TC33OR/android.widget.TextView - Login (1)]
+
+Tue Apr 25 13:15:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:15:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Apr 25, 2023 1:17:41 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 1:19:08 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Tue Apr 25 13:21:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:21:26 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Tue Apr 25 13:22:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:22:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4509ca7f[]
+
+Tue Apr 25 13:25:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:25:23 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:25:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:25:24 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@2fe77935[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@6bae25ee[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@6be10b[org.codehaus.groovy.ast.expr.ConstantExpression@50208bc[Object Repository/TC33OR/android.widget.EditText - Enter Password]]], org.codehaus.groovy.ast.expr.ConstantExpression@1138e7f8[0]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1500d053[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4e8d2c95[0136]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@36e23940[013606]
+
+Tue Apr 25 13:26:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:26:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@70f420ae[013606]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@70f420ae[013606]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@70f420ae[013606]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3171dd1f[  findTestObject(]
+
+Tue Apr 25 13:28:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 13:28:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Tue Apr 25 13:32:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Apr 25, 2023 1:38:51 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 2:31:02 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 2:31:51 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Tue Apr 25 14:42:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:42:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:42:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:42:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Terminated
+
+Tue Apr 25 14:44:07 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:44:07 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:44:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:44:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:44:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:44:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:44:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:44:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Tue Apr 25 14:45:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:45:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:45:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:45:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:46:06 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:46:06 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:46:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 14:46:40 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Apr 25, 2023 2:49:58 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 2:50:48 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 2:51:19 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 2:52:18 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 2:55:08 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Tue Apr 25 15:02:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:04:17 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7a70312b[Object Repository/TC33OR/android.widget.EditText - Enter Username (1)]
+Launcher status after execution process completed: Terminated
+
+Tue Apr 25 15:04:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:04:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6e931ded[Object Repository/TC33OR/android.widget.EditText - Enter Password]
+Launcher status after execution process completed: Terminated
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@32816bcd[Object Repository/TC33OR/android.widget.Iogout]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@1382429[object: org.codehaus.groovy.ast.expr.ClassExpression@76500b5a[type: com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@4c7bedc4[Mobile]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@1382429[object: org.codehaus.groovy.ast.expr.ClassExpression@76500b5a[type: com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@4c7bedc4[Mobile]]
+Apr 25, 2023 3:07:06 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@1382429[object: org.codehaus.groovy.ast.expr.ClassExpression@76500b5a[type: com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@4c7bedc4[Mobile]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@6c5bd5e5[object: org.codehaus.groovy.ast.expr.ClassExpression@67f60118[type: com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@50885bbe[Mobile]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@456babb1[    ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@456babb1[    ]
+Apr 25, 2023 3:13:00 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 3:14:31 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@456babb1[    ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5f416f2e[    ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ff1c7c5[  findTestObject(]
+Apr 25, 2023 3:16:18 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 3:17:09 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 3:18:09 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 25, 2023 3:24:26 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@460d0df6[  findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@22b8b9c8[Object Repository/TC33OR/android.widget.Billing]
+Apr 25, 2023 3:27:33 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Tue Apr 25 15:29:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:29:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Terminated
+
+Tue Apr 25 15:32:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@7aa3e0fd[object: org.codehaus.groovy.ast.expr.ClassExpression@1317f305[type: com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@5bb232e2[Mobile]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@57ce6482[Object Repository/TC33OR/Business Profile]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@57ce6482[Object Repository/TC33OR/Business Profile]
+
+Tue Apr 25 15:34:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:34:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Terminated
+Launcher status after execution process completed: Running
+
+Tue Apr 25 15:36:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@1f4b08af[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1d1cdf42[Object Repository/TC33OR/Setup]
+
+Tue Apr 25 15:40:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:40:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:40:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:40:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:40:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:40:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:41:16 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:41:16 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Tue Apr 25 15:44:04 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:44:06 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:44:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 15:46:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Terminated
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7db8bdd3[Object Repository/TC33OR/android.widget.EditText - Enter Password]
+Apr 25, 2023 3:53:22 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+Tue Apr 25 16:02:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 16:13:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3ec2d3df[Object Repository/Common_LoginCaseOR/EnterUsername]
+
+Tue Apr 25 16:23:25 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 16:23:25 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 16:23:30 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 16:23:30 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 16:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 16:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 16:26:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 16:26:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 16:32:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 17:03:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 17:03:09 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 17:03:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 17:03:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 17:05:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 17:05:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 17:05:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6adadfd9[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6adadfd9[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6adadfd9[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@30213e7b[Test Cases/Common_LoginCase  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@30213e7b[Test Cases/Common_LoginCase  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@603e4140[Test Cases/Common_LoginCase]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@603e4140[Test Cases/Common_LoginCase]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@603e4140[Test Cases/Common_LoginCase]
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@5564f6b9[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@7f6f793b[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@1cbf8776[org.codehaus.groovy.ast.expr.ConstantExpression@27f294a3[Test Cases/Common_LoginCase]]], org.codehaus.groovy.ast.expr.ConstantExpression@55d17fda[null]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@74d3bb4c[Test Cases/Common_LoginCase]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@74d3bb4c[Test Cases/Common_LoginCase]
+Launcher status after execution process completed: Terminated
+
+Tue Apr 25 17:16:11 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 17:32:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 18:02:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Tue Apr 25 18:53:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6647ad82[Object Repository/Common_LoginCaseOR/EnterPassword]
+
+Tue Apr 25 19:02:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task

@@ -1,0 +1,94 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+WebUI.callTestCase(findTestCase('TC-QBDashboard/LoginCase_Common'), null, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(4)
+WebUI.refresh()
+WebUI.delay(5)
+WebUI.click(findTestObject('Object Repository/SC001_TC001V2OR/button_Switch to NEW Version'))
+WebUI.delay(3)
+WebUI.waitForElementClickable(findTestObject('Object Repository/SC001_TC001V2OR/Catalog'), 10)
+//WebUI.waitForJQueryLoad(7)
+WebUI.click(findTestObject('Object Repository/SC001_TC001V2OR/Catalog') )
+WebUI.delay(2)
+WebUI.waitForPageLoad(7)
+WebUI.click(findTestObject('Object Repository/SC001_TC001V2OR/ProductModule') )
+WebUI.delay(3)
+
+//below this V1 code
+WebUI.delay(4)
+String Productpageurl = WebUI.getUrl()
+if (Productpageurl == "https://manage.queuebuster.co/master/items")
+print(" Right page ")
+else
+print(" Wrong page ")
+WebUI.delay(3)
+WebUI.click(findTestObject('Object Repository/SC001_TC001V2OR/button_Create Product') )
+WebUI.delay(3)
+//WebUI.click(findTestObject('Object Repository/SC001_TC001V2OR/input_productName') )
+WebUI.setText(findTestObject('Object Repository/SC001_TC001V2OR/input_productName'), "testpro009")
+WebUI.delay(3)
+
+WebUI.setText(findTestObject('Object Repository/SC001_TC001V2OR/textarea_Product Description'), "Test Description")
+WebUI.delay(3)
+WebUI.setText(findTestObject('Object Repository/SC001_TC001V2OR/input_M.R.P_mrp'),"200")
+WebUI.delay(3)
+WebUI.click(findTestObject('Object Repository/SC001_TC001V2OR/Radio_StoreInfo') )
+WebUI.delay(3)
+WebUI.click(findTestObject('Object Repository/SC001_TC001V2OR/Radio_ManageInventory'))
+WebUI.delay(3)
+WebUI.setText(findTestObject('Object Repository/SC001_TC001V2OR/input_Cost Price'),"300")
+
+//WebUI.setText(findTestObject('Object Repository/SC001_TC001V2OR/ProductPrice'), '100')
+WebUI.delay(3)
+//WebUI.setText(findTestObject('null'),'50')
+WebUI.scrollToElement(findTestObject('   '), 10)
+WebUI.delay(3)
+WebUI.focus(findTestObject('null'))
+WebUI.delay(4)
+WebUI.waitForElementClickable(findTestObject('null'), 10)
+WebUI.delay(3)
+//WebUI.click(findTestObject('null'))
+WebUI.delay(2)
+WebUI.click(findTestObject('null'))
+//WebUI.waitForJQueryLoad(10)
+//WebUI.closeBrowser()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//WebUI.click(findTestObject('Object Repository/SC001_TC001OR/CreateProductPage/Create_Product_Button') )
+//WebUI.click(findTestObject('Object Repository/SC001_TC001OR/CreateProductPage/Product_NameField')  )
+//WebUI.delay(2)

@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Softwares\Katlatest\Katalon_Studiolatestdownload\Katalon_Studio_Windows_64-8.5.5\config\.metadata\.plugins\org.eclipse.jdt.core
+3281449790.index
+3065590431.index
+4078578380.index
+346163147.index
+2328269416.index
+3917694494.index
+2376816241.index
+332383186.index
+1671771997.index

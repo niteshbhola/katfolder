@@ -1,0 +1,1268 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: DIA_LBL_SELECT_TEST_DATA in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: HAND_WARN_TS_REQUIRES_PLUGIN_DYNAMIC_EXECUTION_TO_OPEN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: DIA_INFO_KSE_COMBINE_MULTI_DATASOURCE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_SHELL_DATA_ITERATION in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_LBL_TO_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_START_ROW_BIGGER_THAN_END_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: EDI_TITLE_TEST_CASE_BROWSER in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_CHOOSE_DATA_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_TABLE_EMPTY_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_WARN_MSG_EMPTY_COLUMN_NAME in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: PA_LBL_TOOLTIP_RETRY_IMMEDIATELY in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 56788
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername hp
+End appending additional signatures 62532fe0-f0e6-4bc7-8c3c-88d703e001eb__hp
+End getting machine ID on Windows 3e88d5dd9cc3224adb59187d5ff6c5de
+End checking and mark activated for GUI mode
+Your current licensed session is valid until: April 21, 2023 17:12
+Start check license task
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+
+Thu Apr 20 17:12:20 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: DIA_LBL_LIST_OF_COL_NAMES in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Warning: NLS unused message: DIA_LBL_SELECT_A_COL in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Thu Apr 20 17:12:29 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:12:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:12:33 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:12:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:12:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:12:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:12:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:12:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:12:58 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: DIA_TITLE_INSTALL_INSTRUCTIONS in: com.kms.katalon.composer.mobile.constants.composerMobileMessages
+Launcher status after execution process completed: Running
+
+Thu Apr 20 17:14:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:14:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:14:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:14:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:14:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 17:14:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5d38bd7a[Object Repository/LogincaseOR/testOR/android.widget.TextView - Login]
+
+Thu Apr 20 17:42:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 18:12:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 18:42:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Thu Apr 20 19:12:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:02:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:12:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 10:42:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 12:15:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 12:15:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 12:15:27 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 13:08:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 13:12:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 13:42:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 14:12:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 14:54:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 15:12:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+
+Fri Apr 21 15:35:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Fri Apr 21 15:35:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 15:35:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7503de00[Object Repository/SC001_TC007V2OR/input_Brandname]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@9ac10b[Object Repository/SC001_TC007V2OR/Brand]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@25f78948[Object Repository/CommonObjects/div_Catalog8]
+Warning: NLS unused message: PREF_LBL_ACTIVE_BROWSER_PORT_DO_NOT_SHOW_WARNING_DIALOG in: com.kms.katalon.objectspy.constants.objectspyMessages
+
+Fri Apr 21 15:41:13 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Apr 21, 2023 3:41:25 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 21, 2023 3:41:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Apr 21 15:44:19 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 15:48:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 15:48:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 15:48:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 15:48:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@72c8cfa7[Object Repository/CommonObjects/div_Catalog8]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@5c7e2834[object: org.codehaus.groovy.ast.expr.ClassExpression@3e14162b[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@484895ff[WebUI]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3b5eabd4[Object Repository/SC001_TC011V2OR/Page_QueueBuster All-in-One POS - Indias Business Super App/SubCategory]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6575863[  findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@40e0f867[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1d6a673c[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@75577730[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@42bc3e9[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4b87d552[Object Repository/SC001_TC011V2OR/input_SubCategoryName]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1b454f35[ SubTestDescription]
+
+Fri Apr 21 16:03:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 16:03:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 16:03:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 16:03:08 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@263c3d86[Object Repository/SC001_TC001V2OR/button_Switch to NEW Version]
+
+Fri Apr 21 16:36:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 16:37:36 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@27d84b77[findTestObjec(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6977b90b[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6977b90b[ findTestObject(]
+
+Fri Apr 21 16:42:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@57e35329[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3f248715[ findTestObjec(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@3edf6dc2[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@67cdba3f[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@5406e3ed[org.codehaus.groovy.ast.expr.ConstantExpression@3c5bb2f3[Object Repository/SC001_TC011V2OR/Select_Categorydropdown]]], org.codehaus.groovy.ast.expr.VariableExpression@792f69c7[variable: nul], org.codehaus.groovy.ast.expr.ConstantExpression@73b9389f[false]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7dcc5c58[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7dcc5c58[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2b72c721[Object Repository/SC001_TC011V2OR/Select_Categorydropdown]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4be6cb67[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1b2b5374[NCATEGOR]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47d4d6b5[NCATEGORY1]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4ece30e5[]
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@76d902a1[Object Repository/SC001_TC011V2OR/button_CreateSubcategory]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@251557ad[Object Repository/SC001_TC011V2OR/SubCategory_Desc]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@76d902a1[Object Repository/SC001_TC011V2OR/button_CreateSubcategory]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@263c3d86[Object Repository/SC001_TC001V2OR/button_Switch to NEW Version]
+
+Fri Apr 21 16:49:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Apr 21, 2023 4:52:48 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 21, 2023 4:52:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@38df2ee6[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@53cb140b[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2eb4489f[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@1fb692ce[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@39afb2c4[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@143cca79[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4afdf3ea[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4afdf3ea[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4afdf3ea[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@44bb9aee[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@130602a9[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@130602a9[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@130602a9[ ]
+Apr 21, 2023 5:09:14 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 21, 2023 5:09:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@130602a9[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@60c42ffc[Object Repository/SC001_TC011V2OR/FinalSubSave]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@c0f9ca2[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@c0f9ca2[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@63875ef4[findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6adfda5e[findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6adfda5e[findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@26e3cce4[findTest(]
+
+Fri Apr 21 17:12:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@55e5eee1[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6aefa235[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@6b5adccb[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@49f3a892[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@4e4b736d[org.codehaus.groovy.ast.expr.ConstantExpression@579da576[Object Repository/SC001_TC011V2OR/SubCat_Search]]]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@51c9ac8e[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7e7f4f05[ ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1f41d0a5[ Te]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6d170e61[ Test]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@614068d[ TestSub]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1cf85301[ TestSubCate]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7ecc1d3e[ TestSubCategory]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47d8a7a9[ TestSubCategory007]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47d8a7a9[ TestSubCategory007]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47d8a7a9[ TestSubCategory007]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4fe391cd[TestSubCategory007]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7198c455[Object Repository/SC001_TC011V2OR/SubCat_Search]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@6036151f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@491574eb[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@160e969a[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@14a7f3db[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@d9e8746[Sub]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47997189[Subcategory]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5f39f2e0[Subcategory ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6c6f9a9e[Subcategory creation failed]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@7800a9b6[]{ org.codehaus.groovy.ast.stmt.BlockStatement@3b9b8e46[] }
+
+Fri Apr 21 17:17:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:17:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:17:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:17:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:17:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:17:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@54d79a10[TestSubCategory007]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@49c6baf3[Object Repository/SC001_TC011V2OR/SubCategory]
+
+Fri Apr 21 17:38:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:38:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:38:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:38:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:38:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:38:00 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 17:42:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6c7327b8[Object Repository/CommonObjects/div_Catalog8]
+Apr 21, 2023 5:48:50 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 21, 2023 5:48:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Apr 21 18:26:28 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@43f3bbd[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4722001a[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3c3352d[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2de51bf[findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@47e5df4d[Object Repository/SC001_TC012V2OR/input_ManufacturerName]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@2f49073f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7cfe9d2d[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7cfe9d2d[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7cfe9d2d[  ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2fe0a9ef[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2fe0a9ef[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2fe0a9ef[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@358ae263[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@d5c222f[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@312bdf3f[org.codehaus.groovy.ast.expr.ConstantExpression@12844318[Object Repository/SC001_TC012V2OR/input_ManufacturerName]]]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5556f131[TestDescription]
+
+Fri Apr 21 18:42:14 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@175dda57[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5f4027f5[findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1a6ca2ed[findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@37737389[Object Repository/SC001_TC012V2OR/input_ManufacturerName]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@16283fb0[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@16283fb0[ findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@495db7bf[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3937327b[  findTestObject(]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@55cde18c[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@14081a8f[Test]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1904c942[TestManufacturer]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4790c56[TestManufacturer007]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4790c56[TestManufacturer007]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@28b99a66[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@54ab10d6[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@59aecb5a[Manufacturer]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4daf418e[Manufacturer added su]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7919f715[Manufacturer added succes]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5d83ac02[Manufacturer added succesfully]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5d83ac02[Manufacturer added succesfully]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@593bec82[Manufacturer added Succesfully]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@593bec82[Manufacturer added Succesfully]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@797d2541[Manufacturer added Successfully]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5b1b2e41[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1ffe4779[Manuafactuere]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2f4a70e8[Manu]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1dca35d8[Manufacturer]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@77b33b7c[Manufacturer ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@525b3dfe[Manufacturer Script ]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@365063f3[Manufacturer Script failed]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@675851c1[]{ org.codehaus.groovy.ast.stmt.BlockStatement@f07412e[] }
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4626469e[]
+
+Fri Apr 21 18:50:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 18:50:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 18:50:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 18:50:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 18:50:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Fri Apr 21 18:50:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@23cde44b[TestManufacturer007]
+Expired License.
+Expired License.
+
+Mon Apr 24 10:26:41 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:41 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:41 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:44 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:45 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:47 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:48 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:49 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:50 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:51 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:52 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:53 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 10:26:54 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 11:07:01 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 11:13:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 11:47:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+All launchers terminated
+
+Mon Apr 24 12:06:25 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+All launchers terminated
+
+Mon Apr 24 12:06:42 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+All launchers terminated
+
+Mon Apr 24 12:07:15 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+All launchers terminated
+
+Mon Apr 24 12:07:34 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.5.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.5.5&appType=KSE&licenseType=FREE
+
+Mon Apr 24 12:07:43 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:14:10 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:32:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:32:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:32:46 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:32:55 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:34:30 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:34:30 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:34:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:34:32 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:35:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:35:12 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:42:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:42:38 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:43:03 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 12:43:28 IST 2023
+Azure: Enterprise license for this feature is requested
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@32bf07a6[C:\Core\app-pinePOS-debug.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6540fbf8[C:\Co]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@26dd8c76[C:\]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@13d6e699[C:\Core\app-pinePOS-debug.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@13d6e699[C:\Core\app-pinePOS-debug.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@13d6e699[C:\Core\app-pinePOS-debug.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3840ab15[C:\Core\]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3840ab15[C:\Core\]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3840ab15[C:\Core\]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3840ab15[C:\Core\]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@71678cc3[C:\Core\queueBusterAPPRelease_3.21]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@71678cc3[C:\Core\queueBusterAPPRelease_3.21]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@24ed79[org.codehaus.groovy.ast.expr.ConstantExpression@71678cc3[C:\Core\queueBusterAPPRelease_3.21], org.codehaus.groovy.ast.expr.ConstantExpression@ee3030d[true]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@796a6338[C:\Core\queueBusterAPPRelease_3.21.]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5e76ef9e[C:\Core\queueBusterAPPRelease_3.21.apk]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5e76ef9e[C:\Core\queueBusterAPPRelease_3.21.apk]
+
+Mon Apr 24 13:02:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 13:02:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 13:02:35 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 13:02:36 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 13:02:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+
+Mon Apr 24 13:02:37 IST 2023
+Azure: Enterprise license for this feature is requested
+
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task
